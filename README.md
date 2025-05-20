@@ -11,7 +11,7 @@ A simple and responsive Weather App that allows users to get real-time weather u
 
 ## 🛠️ Built With
 
-- HTML, CSS, JavaScript  
+- HTML, CSS, PHP
 - OpenWeatherMap API (for weather data)
 
 
